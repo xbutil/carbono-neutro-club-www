@@ -5437,7 +5437,6 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  display: block;
 }
 @media (max-width: 768px) {
   .cid-uhLFtnBnTJ .content-wrapper {
@@ -5482,13 +5481,23 @@ a {
 }
 .cid-uhLFtnBnTJ .mbr-address {
   color: #000000;
+  text-align: center;
 }
 .cid-uhLFtnBnTJ .mbr-list-title {
   color: #000000;
+  text-align: center;
 }
 .cid-uhLFtnBnTJ .list {
   color: #000000;
 }
 .cid-uhLFtnBnTJ .mbr-copy {
   color: #000000;
+}
+.cid-uhLFtnBnTJ .mbr-section-title,
+.cid-uhLFtnBnTJ .content-wrapper {
+  text-align: center;
+}
+.cid-uhLFtnBnTJ .list,
+.cid-uhLFtnBnTJ .item-wrap {
+  text-align: left;
 }
