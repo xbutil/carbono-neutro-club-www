@@ -779,6 +779,11 @@ a {
 .cid-uhWJ6m4EGz .carousel-inner {
   height: 100%;
 }
+.cid-uhWJ6m4EGz h1,
+.cid-uhWJ6m4EGz p,
+.cid-uhWJ6m4EGz h5 {
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.77);
+}
 .cid-uhWJ6m4EGz .carousel-caption {
   bottom: 40px;
 }
@@ -876,6 +881,15 @@ a {
 .cid-uhWJ6m4EGz P {
   text-align: right;
   color: #ffffff;
+}
+.cid-uhWJ6m4EGz .mbr-name {
+  text-align: center;
+}
+.cid-uhWJ6m4EGz .mbr-desc {
+  text-align: center;
+}
+.cid-uhWJ6m4EGz .mbr-role {
+  text-align: center;
 }
 .cid-uhLFtnjZL3 .navbar-dropdown {
   position: relative !important;
